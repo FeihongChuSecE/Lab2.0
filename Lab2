@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type=text/css>
+        body {
+            background-color: yellow;
+        }
+
+        p {
+            color: red;
+        }
+
+        <title>My Name </title>
+    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <img scr=" Faye.png" alt="Faye.png">
+        <h1>
+            My Name
+        </h1>
+        <p> My name is Feihong Chu. I come from China.
+        </p>
+        <nav>
+            <a href="http://www.google.com">Feihong Chu</a>
+        </nav>
+    </header>
+    <main>
+        <h2>
+            You can call me Faye. Because it is my English name. And also it is easy to pronounce than Feihong.
+        </h2>
+    </main>
+    <footer>
+        <p>
+            &copy; 2024 by Faye
+        </p>
+    </footer>
+
+</body>
+
+
+</html>
